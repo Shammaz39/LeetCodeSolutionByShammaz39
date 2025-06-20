@@ -21,7 +21,7 @@ This repo contains my solutions to various LeetCode problems solved using Java a
 - `/Easy` - Easy-level problems
 - `/Medium` - Medium-level problems
 - `/Hard` - Hard-level problems
-- Each file is named as `<ProblemName>_<ProblemNumber>.java`
+- Each file is named as `L<ProblemNumber>_<ProblemName>.java`
 
 ---
 

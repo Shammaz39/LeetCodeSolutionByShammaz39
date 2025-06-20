@@ -50,7 +50,7 @@ It is guaranteed that s is a valid roman numeral in the range [1, 3999].
 
 import java.util.Scanner;
 
-public class RomanToInt_13 {
+public class L13_RomanToInt {
 
         public static int romanToInt(String s) {
             char[] sArray = s.toCharArray();

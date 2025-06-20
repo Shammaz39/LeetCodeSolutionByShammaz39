@@ -40,7 +40,7 @@ Follow-up: Can you come up with an algorithm that is less than O(n2) time comple
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class TwoSum_1 {
+public class L1_TwoSum {
 
     public static int[] twoSum(int[] nums, int target) {
 
